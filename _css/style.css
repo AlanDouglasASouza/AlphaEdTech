@@ -1,0 +1,41 @@
+header {
+  height: 65px;
+}
+
+header#cabecalho {
+  position: absolute;
+  bottom: 90.52%;
+  height: 61px;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+
+  /* Azul cabeçalho */
+
+  background: #2b364a;
+}
+
+header#cabecalho img#icone {
+  position: relative;
+  max-width: 40px;
+  max-height: 40px;
+  left: 85%;
+  margin-top: 10px;
+}
+
+header#cabecalho img#icone-cart {
+  position: relative;
+  max-width: 40px;
+  max-height: 40px;
+  left: 89%;
+  margin-top: 10px;
+}
+
+header#cabecalho h2#pedidos {
+  color: black;
+  position: relative;
+  left: 65%;
+  margin-bottom: 100px;
+  font-size: 15pt;
+}
